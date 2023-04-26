@@ -13,7 +13,7 @@ char operator = reader.next().charAt(0);
 double result;
 //switch case for each of the operations
 switch(operator)
-{
+this is the unnessacary
 case '+':
 result = first + second;
 break;
